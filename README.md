@@ -5,4 +5,4 @@
 $ curl https://shard.ctrlaltdev.xyz/wheretoeat
 ```
 
-Return a place to eat per day
+Returns a place to eat per day
