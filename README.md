@@ -1,4 +1,4 @@
-[![licence](https://img.shields.io/github/license/ctrlaltdev/wheretoeat.svg?style=for-the-badge)](https://github.com/ctrlaltdev/wheretoeat/blob/master/LICENCE.md)
+[![licence](https://img.shields.io/github/license/ctrlaltdev/wheretoeat.svg?style=for-the-badge)](https://github.com/ctrlaltdev/wheretoeat/blob/master/LICENSE)
 ![Python](https://img.shields.io/badge/_-Python-4B8BBE.svg?style=for-the-badge)
 
 ```
