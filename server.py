@@ -20,7 +20,7 @@ places = [
 
 class RequestHandler(BaseHTTPRequestHandler):
     def do_GET(self):
-        today = datetime.date.today()
+        today = datetime.datetime.today().strftime("%Y%m%d%H")
         random.seed(today)
         randint = random.randint(0,len(places) - 1)
         random_place = places[randint]
