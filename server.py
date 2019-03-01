@@ -15,7 +15,8 @@ places = [
     'Etc Gourmet',
     'The fake french place',
     'Pho22',
-    'Elbow Room'
+    'Elbow Room',
+    'Mamas and Papas'
 ]
 
 class RequestHandler(BaseHTTPRequestHandler):
